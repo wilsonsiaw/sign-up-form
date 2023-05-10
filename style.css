@@ -2,4 +2,13 @@ html,
 body {
     box-sizing: border-box;
     margin: 0px 0px 0px 0px;
+    min-height: 100%;
+}
+
+body {
+    background-image: url(images/background-image.jpg);
+
+    min-height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
