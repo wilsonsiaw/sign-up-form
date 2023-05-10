@@ -1,9 +1,20 @@
 html {
     box-sizing: border-box;
-    margin: 0px 0px 0px 0px;
 }
 
 body {
    background-color: #f5f9ee;
    height: 100vh;
+   margin: 0px 0px 0px 0px;
+}
+
+.main-form-body {
+    padding: 4em;
+    margin-top: 180px;
+    margin-left: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
 }
