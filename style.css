@@ -4,17 +4,23 @@ html {
 
 body {
    background-color: #f5f9ee;
-   height: 100vh;
+   min-height: 100%;
    margin: 0px 0px 0px 0px;
 }
 
 .main-form-body {
-    padding: 4em;
-    margin-top: 180px;
-    margin-left: 200px;
+    padding: 70px;
+    margin-top: 50px;
+    margin-left: 500px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-start;
     background-color: #ffffff;
+}
+
+.main-text {
+    margin: 40px 0px -50px 500px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
 }
