@@ -27,3 +27,13 @@ body {
     align-items: flex-start;
 }
 
+button {
+    border: 2px solid #ffe9e3;
+    border-radius: 8px;
+    padding: 12px 50px 12px 50px;
+    margin: 40px 0px 0px 575px;
+    font-size: 1rem;
+    font-weight: 900;
+    background-color: #8dc6ff;
+    box-shadow: lightgrey;
+}
