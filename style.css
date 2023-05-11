@@ -12,7 +12,7 @@ body {
 
 .main-form-body {
     padding: 5px 50px 50px 50px;
-    margin: 5px 0px 0px 500px;
+    margin: 5px 0px 0px 578px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -28,7 +28,7 @@ div > p {
 
 .main-text {
     padding: 50px;
-    margin: 5px 0px -50px 500px;
+    margin: 5px 0px -50px 578px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -58,7 +58,7 @@ button {
     border: 3px solid #8dc6ff;
     border-radius: 8px;
     padding: 12px 50px 12px 50px;
-    margin: 40px 0px 0px 550px;
+    margin: 40px 0px 0px 635px;
     font-size: 1rem;
     font-weight: 900;
     background-color: #8dc6ff;
@@ -66,10 +66,18 @@ button {
 
 .login-text {
     padding: 5px;
-    margin: 4px 0px -50px 550px;
+    margin: 4px 0px -50px 635px;
 }
 
 a {
     text-decoration: none;
     color: #5585b5;
+}
+
+.background-image {
+    background-image: url(images/background-image.jpg);
+
+    min-height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
