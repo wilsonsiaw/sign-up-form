@@ -67,6 +67,11 @@ button {
     background-color: #8dc6ff;
 }
 
+button:hover {
+    cursor: pointer;
+    background-color: #5585b5;
+}
+
 .login-text {
     padding: 5px;
     margin: 15px 0px -50px 635px;
@@ -75,6 +80,10 @@ button {
 a {
     text-decoration: none;
     color: #5585b5;
+}
+
+a:hover {
+    color: #8dc6ff;
 }
 
 .background-image {
