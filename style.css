@@ -37,3 +37,8 @@ button {
     background-color: #8dc6ff;
     box-shadow: lightgrey;
 }
+
+.login-text {
+    padding: 5px;
+    margin: 4px 0px -50px 575px;
+}
