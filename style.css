@@ -10,17 +10,20 @@ body {
 
 .main-form-body {
     padding: 70px;
-    margin-top: 50px;
-    margin-left: 500px;
+    margin: 50px 0px 0px 500px;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
+    align-items: flex-start;
     background-color: #ffffff;
 }
 
 .main-text {
-    margin: 40px 0px -50px 500px;
     padding: 50px;
+    margin: 40px 0px -50px 500px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
 }
+
