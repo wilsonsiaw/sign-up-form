@@ -11,8 +11,8 @@ body {
 }
 
 .main-form-body {
-    padding: 70px;
-    margin: 40px 0px 0px 500px;
+    padding: 5px 50px 50px 50px;
+    margin: 5px 0px 0px 500px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -20,9 +20,15 @@ body {
     background-color: #ffffff;
 }
 
+div > p {
+    font-family: "Source Serif Pro", serif, monospace;
+    font-size: large;
+    font-weight: 900;
+}
+
 .main-text {
     padding: 50px;
-    margin: 20px 0px -50px 500px;
+    margin: 5px 0px -50px 500px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -43,16 +49,16 @@ body {
 
 input {
     border-radius: 5px;
-    border: 3px solid #ec729c;
-    width: 350px;
+    border: 2px solid #ec729c;
+    width: 400px;
     height: 23px;
 }
 
 button {
-    border: 2px solid #ffe9e3;
+    border: 3px solid #8dc6ff;
     border-radius: 8px;
     padding: 12px 50px 12px 50px;
-    margin: 40px 0px 0px 575px;
+    margin: 40px 0px 0px 550px;
     font-size: 1rem;
     font-weight: 900;
     background-color: #8dc6ff;
@@ -60,7 +66,7 @@ button {
 
 .login-text {
     padding: 5px;
-    margin: 4px 0px -50px 575px;
+    margin: 4px 0px -50px 550px;
 }
 
 a {
