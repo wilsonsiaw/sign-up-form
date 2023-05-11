@@ -52,24 +52,35 @@ div > p {
 
 input {
     border-radius: 5px;
-    border: 2px solid #ec729c;
+    border: 1px solid #ec729c;
     width: 400px;
     height: 23px;
 }
 
+input:focus {
+    outline: none;
+    border: 2px solid #5585b5;
+    box-shadow: 1px 1px #5585b5;
+}
+
+input:invalid {
+    border: 2px solid red;
+}
+
 button {
-    border: 3px solid #8dc6ff;
+    border: 3px solid #5585b5;
     border-radius: 8px;
     padding: 12px 50px 12px 50px;
     margin: 40px 0px 0px 635px;
     font-size: 1rem;
     font-weight: 900;
-    background-color: #8dc6ff;
+    background-color: #5585b5;
 }
 
 button:hover {
     cursor: pointer;
-    background-color: #5585b5;
+    background-color: #53a8b6;
+    border: 3px solid #53a8b6;
 }
 
 .login-text {
@@ -83,7 +94,7 @@ a {
 }
 
 a:hover {
-    color: #8dc6ff;
+    color: #53a8b6;
 }
 
 .background-image {
