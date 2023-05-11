@@ -10,7 +10,7 @@ body {
 
 .main-form-body {
     padding: 70px;
-    margin: 50px 0px 0px 500px;
+    margin: 40px 0px 0px 500px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -20,7 +20,7 @@ body {
 
 .main-text {
     padding: 50px;
-    margin: 40px 0px -50px 500px;
+    margin: 30px 0px -50px 500px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -32,6 +32,18 @@ body {
     flex-flow: row wrap;
     align-items: center;
     gap: 20px;
+}
+
+.form-inline label {
+    margin: 5px 10px 5px 0px;
+    display: flex;
+}
+
+input {
+    border-radius: 5px;
+    border: 3px solid #ec729c;
+    width: 400px;
+    height: 23px;
 }
 
 button {
