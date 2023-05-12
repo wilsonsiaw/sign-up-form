@@ -41,3 +41,9 @@ In this project, I learned how to create HTML forms using different HTML form co
 I also learned how to create different types of user interactions using CSS pseudo-classes. For example, to create invalid form validations, I used the :invalid pseudo-class. 
 
 Beyond these things, I continued to learn how to style and position HTML elements using CSS.
+
+## **Challenges**
+
+The biggest challenge I faced in doing this project was overlaying an image over another image. In this case, the logo had to be overlayed over the main background image. I was finally able to do this using the CSS Position property on both the background image and the logo itself.
+
+![logo](readme-assets/logo-screenshot.png)
