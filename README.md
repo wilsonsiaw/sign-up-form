@@ -47,3 +47,13 @@ Beyond these things, I continued to learn how to style and position HTML element
 The biggest challenge I faced in doing this project was overlaying an image over another image. In this case, the logo had to be overlayed over the main background image. I was finally able to do this using the CSS Position property on both the background image and the logo itself.
 
 ![logo](readme-assets/logo-screenshot.png)
+
+## **Contact** 
+
+![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+Thank you for going through this project repository.
+
+I can be contacted for any comments or controbutions at:
+
+**wilsonsiawse@gmail.com**
