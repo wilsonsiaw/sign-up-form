@@ -57,3 +57,5 @@ Thank you for going through this project repository.
 I can be contacted for any comments or controbutions at:
 
 **wilsonsiawse@gmail.com**
+
+The image used as the background in this project is credited to **Marek Piwnicki** and can be found [here](https://unsplash.com/photos/2zPZQoJszAU).
