@@ -33,3 +33,11 @@ As can be seen above, the email field border changes to red to let the user know
 The final feature I would like to mention is the submit button. The button changes color when a user hovers over it. Again this was done to improve user interaction with the form.
 
 ![Submit](readme-assets/submit-button-screenshot.png)
+
+## **What I Learned**
+
+In this project, I learned how to create HTML forms using different HTML form controls. In addition to this I learned how to create client-side form validations using just HTML and CSS. 
+
+I also learned how to create different types of user interactions using CSS pseudo-classes. For example, to create invalid form validations, I used the :invalid pseudo-class. 
+
+Beyond these things, I continued to learn how to style and position HTML elements using CSS.
