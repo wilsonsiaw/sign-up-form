@@ -50,14 +50,14 @@ The biggest challenge I faced in doing this project was overlaying an image over
 
 ## **Contact** 
 
-![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 Thank you for going through this project repository.
 
-I can be contacted for any comments or controbutions at:
+I can be contacted for any comments or contributions at:
+
+![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 **wilsonsiawse@gmail.com**
 
-### **Image**
+### **Image Credit**
 
 The image used as the background in this project is credited to **Marek Piwnicki** and can be found [here](https://unsplash.com/photos/2zPZQoJszAU).
